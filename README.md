@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # Aura.Router
 
 Provides a web router implementation: given a URL path and a copy of
